@@ -1,0 +1,41 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+h1{
+	text-align: center;
+	padding: 10px;
+}
+.reg {
+    width: 410px;
+    margin:150px auto;
+    background-color: lightgreen;
+    text-align: center;
+   	padding: 20px 20px ;
+   	border-radius: 20px;
+}
+.in{
+	padding: 10px;
+	border-radius: 10px;
+	border: none;
+	
+}
+.sub{
+	padding: 10px 25px;
+	border-radius: 10px;
+	border: none;
+
+	background-color: #126f6f;
+	color: white;
+
+
+}
+.sub:hover{
+	padding: 10px 25px;
+	border-radius: 10px;
+	border: none;
+	background-color: #ffff66;
+	color: black;
+	
+
+}

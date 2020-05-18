@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+}
+.contaner{
+	width:450px;
+	margin:15%  auto;
+}
+.login-section {
+	background-color:black;
+	padding:20px;
+}
+.login-section h3{
+	color:white;
+	text-align:center;
+	font-size:25px;
+	margin:10px 15px;
+
+
+
+}
+.login-section img{
+	margin: 0 auto;
+	display:block;
+}
+.from-control{
+	width:90%;
+	padding:10px 15px;
+	
+
+}
+.btn{
+	width:20%;
+	margin: 0 auto;
+	display:block;
+	color:#ffff;
+	background-color:red;
+	height:30px; 
+}
+p{
+	color:red;
+}

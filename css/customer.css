@@ -1,0 +1,43 @@
+.cust{
+	width: 410px;
+	margin: 120px auto;
+	background-color: lightgreen;
+	
+	padding: 40px;
+	border-radius: 30px;
+}
+
+.in{
+
+	padding: 15px;
+	border-radius: 20px;
+    border:none;
+}
+
+.in:hover{
+	background-color: #ccffff;
+	color: white;
+	padding: 15px;
+	border-radius: 20px;
+    border:none;
+}
+
+
+
+.btn{
+
+	padding: 10px 25px;
+	border-radius: 10px;
+	border: none;
+	background-color: #126f6f;
+	color: white;
+}
+
+.btn:hover{
+
+	padding: 10px 25px;
+	border-radius: 10px;
+	border: none;
+	background-color:  #ffff66;
+	color: black;
+}
